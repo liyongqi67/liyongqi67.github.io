@@ -113,7 +113,9 @@ A.thumbnail:hover {
 
 .student-section-heading {
 	FONT-SIZE: 16px;
-	FONT-WEIGHT: bold
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-WEIGHT: 800;
+	COLOR: #000
 }
 .student-subheading {
 	FONT-SIZE: 14px;
