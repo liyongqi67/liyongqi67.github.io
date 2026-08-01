@@ -97,3 +97,15 @@ A.thumbnail:hover {
 .inbox {
 	PADDING-BOTTOM: 7px; MARGIN-TOP: 5px
 }
+
+.student-note {
+	FONT-SIZE: 12px;
+	COLOR: #666;
+	LINE-HEIGHT: 1.5;
+	DISPLAY: block;
+	MAX-WIDTH: 650px;
+	MARGIN: 6px 0px 12px 0px;
+	PADDING: 7px 10px;
+	BACKGROUND-COLOR: #f7f9fb;
+	BORDER-LEFT: 3px solid #c7d5e2
+}
