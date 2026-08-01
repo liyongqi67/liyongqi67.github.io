@@ -109,3 +109,13 @@ A.thumbnail:hover {
 	BACKGROUND-COLOR: #f7f9fb;
 	BORDER-LEFT: 3px solid #c7d5e2
 }
+
+
+.student-section-heading {
+	FONT-SIZE: 16px;
+	FONT-WEIGHT: bold
+}
+.student-subheading {
+	FONT-SIZE: 14px;
+	FONT-WEIGHT: bold
+}
